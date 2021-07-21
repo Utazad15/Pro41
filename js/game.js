@@ -57,7 +57,7 @@ play(){
         if(index === player.index){
             
         fill("black");
-        textSize(25);
+        textSize(20);
         text(allPlayers[plr].name ,x-25,y+25);
 
             
