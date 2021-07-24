@@ -58,7 +58,7 @@ play(){
             
         fill("black");
         textSize(20);
-        text(allPlayers[plr].name ,x-25,y+25);
+        text(allPlayers[plr].name ,x-38,y+25);
 
             
         }
